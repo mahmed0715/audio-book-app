@@ -5,7 +5,6 @@
     "slug": "audio-archive",
     "privacy": "public",
     "backgroundColor": "#000000",
-    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
