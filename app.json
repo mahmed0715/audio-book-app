@@ -30,7 +30,8 @@
         "UIBackgroundModes": [
           "audio"
         ]
-      }
+      },
+      "bundleIdentifier": "audioarchiveqns"
     }
   }
 }
